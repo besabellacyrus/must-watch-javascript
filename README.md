@@ -16,7 +16,7 @@ This is a collection of well-received talks about JavaScript, covering topics su
 ### 2019
 
 1. [**The Future of Web Animation**](https://www.youtube.com/watch?v=hjgni3dXcVE): Sarah Drasner, JSHeroes `31:03`
-
+2. [**GraphQL: The Documentary**](https://www.youtube.com/watch?v=783ccP__No8): `27:57`
 
 ### 2018
 
